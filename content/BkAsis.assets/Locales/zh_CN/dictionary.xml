@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asf locale="zh_CN" version="1.0" xmlns="http://ns.adobe.com/asf">
+  <str name="Configurator/ActionScript/Script/desc###23" translate="yes">
+    <val>运行 JavaScript</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###26" translate="yes">
+    <val>运行 JavaScript</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/desc###5" translate="yes">
+    <val>运行 JavaScript</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###22" translate="yes">
+    <val>脚本</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###25" translate="yes">
+    <val>脚本</val>
+  </str>
+  <str name="Configurator/ActionScript/Script/name###4" translate="yes">
+    <val>脚本</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###12" translate="yes">
+    <val>运行 JavaScript 文件</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###8" translate="yes">
+    <val>运行 JavaScript 文件</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###11" translate="yes">
+    <val>保存</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###7" translate="yes">
+    <val>载入图片</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###13" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###15" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###16" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###19" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###20" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###24" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###27" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###3" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###6" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###9" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Container/VDividedBox/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/FlyoutMenu/about" translate="yes">
+    <val>关于</val>
+  </str>
+  <str name="Configurator/key_###10" translate="yes">
+    <val>js/script.jsx</val>
+  </str>
+  <str name="Configurator/key_###14" translate="yes">
+    <val>js/save.jsx</val>
+  </str>
+  <str name="Configurator/key_###17" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###18" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###2" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/key_###21" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/watermark/htmlText" translate="yes">
+    <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;使用 Configurator 创建&lt;/a&gt;</val>
+  </str>
+  <str name="Configurator/watermark/width" translate="yes">
+    <val>122</val>
+  </str>
+  <str name="Configurator/watermark/x" translate="yes">
+    <val>98</val>
+  </str>
+  <str name="Configurator/Widget/HRule/desc" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/PopupPanelButton/desc" translate="yes">
+    <val>弹出式面板</val>
+  </str>
+  <str name="Configurator/Widget/PopupPanelButton/name###1" translate="yes">
+    <val/>
+  </str>
+  <str name="Configurator/Widget/Text/desc" translate="yes">
+    <val/>
+  </str>
+</asf>
