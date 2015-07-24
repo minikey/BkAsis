@@ -12,6 +12,8 @@ var outputFolder;
 var outputFolderName = 'output';
 var curPicName; // 当前图片名
 
+app.preferences.rulerUnits = Units.PIXELS; // 设置全局的单位为像素
+app.preferences.typeUnits = TypeUnits.PIXELS;
 
 function init() {
 	if (doc) {
@@ -51,7 +53,10 @@ function init() {
 
 				app.load(file);
 				var backFile = app.activeDocument; //prepare your image layer as active document
-   				
+
+				// alert(backFile.width.type);
+				// alert(backFile.width);
+				// alert(backFile.height);
    				backFile.selection.selectAll();
    				backFile.selection.copy(); //copy image into clipboard
    				backFile.close(SaveOptions.DONOTSAVECHANGES); //close image without saving changes

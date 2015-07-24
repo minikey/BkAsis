@@ -21,11 +21,17 @@
   <str name="Configurator/ActionScript/ScriptFile/desc###12" translate="yes">
     <val>运行 JavaScript 文件</val>
   </str>
+  <str name="Configurator/ActionScript/ScriptFile/desc###29" translate="yes">
+    <val>运行 JavaScript 文件</val>
+  </str>
   <str name="Configurator/ActionScript/ScriptFile/desc###8" translate="yes">
     <val>运行 JavaScript 文件</val>
   </str>
   <str name="Configurator/ActionScript/ScriptFile/name###11" translate="yes">
     <val>保存</val>
+  </str>
+  <str name="Configurator/ActionScript/ScriptFile/name###28" translate="yes">
+    <val>魔法~</val>
   </str>
   <str name="Configurator/ActionScript/ScriptFile/name###7" translate="yes">
     <val>载入图片</val>
@@ -52,6 +58,9 @@
     <val>True</val>
   </str>
   <str name="Configurator/Attribute/visible/value###3" translate="yes">
+    <val>True</val>
+  </str>
+  <str name="Configurator/Attribute/visible/value###30" translate="yes">
     <val>True</val>
   </str>
   <str name="Configurator/Attribute/visible/value###6" translate="yes">
@@ -83,6 +92,9 @@
   </str>
   <str name="Configurator/key_###21" translate="yes">
     <val/>
+  </str>
+  <str name="Configurator/key_###31" translate="yes">
+    <val>js/magic.jsx</val>
   </str>
   <str name="Configurator/watermark/htmlText" translate="yes">
     <val>&lt;a href='http://labs.adobe.com/technologies/configurator/' target='_blank'&gt;使用 Configurator 创建&lt;/a&gt;</val>

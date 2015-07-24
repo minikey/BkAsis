@@ -18,6 +18,9 @@ options.PNG8 = false;
 options.transparency = true;
 options.optimized = true;
 
+app.preferences.rulerUnits = Units.PIXELS; // 设置全局的单位为像素
+app.preferences.typeUnits = TypeUnits.PIXELS;
+
 function init() {
 	if (doc) {
 		curFolder = getDocFileFolder(docs);
